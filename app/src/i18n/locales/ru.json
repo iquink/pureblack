@@ -1,0 +1,14 @@
+{
+  "welcome": "Тут можно скачать идеально чёрные обои для рабочего стола.",
+  "NoMore": "Это всё, что делает этот сайт. Наслаждайтесь!",
+  "screenResolution": "Ваше разрешение экрана: {{width}} x {{height}}",
+  "downloadWallpaper": "Скачать обои",
+  "theme": {
+    "dark": "Тёмная",
+    "light": "Светлая"
+  },
+  "logoAlt": "Логотип Pure Black Wallpapers",
+  "controlsBar": "Настройки",
+  "selectLanguage": "Выберите язык",
+  "toggleTheme": "Переключить тёмную/светлую тему"
+}

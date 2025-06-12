@@ -1,0 +1,14 @@
+{
+  "welcome": "Tervetuloa! Tässä voit ladata täydellisiä mustia taustakuvia työpöydällesi.",
+  "NoMore": "Tämä on kaikki mitä sivusto tekee. Nauti!",
+  "screenResolution": "Näytön tarkkuus: {{width}} x {{height}}",
+  "downloadWallpaper": "Lataa taustakuva",
+  "theme": {
+    "dark": "Tumma",
+    "light": "Vaalea"
+  },
+  "logoAlt": "Pure Black Wallpapers Logo",
+  "controlsBar": "Asetukset",
+  "selectLanguage": "Valitse kieli",
+  "toggleTheme": "Vaihda tumma/vaalea teema"
+}

@@ -1,0 +1,14 @@
+{
+  "welcome": "Here you can download perfectly black wallpapers for your desktop.",
+  "NoMore": "That's all this site does. Enjoy!",
+  "screenResolution": "Your screen resolution: {{width}} x {{height}}",
+  "downloadWallpaper": "Download Wallpaper",
+  "theme": {
+    "dark": "Dark",
+    "light": "Light"
+  },
+  "logoAlt": "Pure Black Wallpapers Logo",
+  "controlsBar": "Settings",
+  "selectLanguage": "Select language",
+  "toggleTheme": "Toggle dark/light theme"
+}
